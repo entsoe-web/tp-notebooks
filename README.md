@@ -25,7 +25,7 @@ That's it you're good to go!
 ### Notes
 All the notebooks here use python 3.5 and the following python pacakges:
 
-- iPython
+- [iPython](http://jupyter.org/)
 - pandas
 - numpy
 - plotly
